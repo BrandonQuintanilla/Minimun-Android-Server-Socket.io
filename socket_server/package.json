@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "run": "node src/socket_server/app"
+  },
+  "dependencies": {
+    "socket.io": "^4.4.1"
+  },
+  "type": "module"
+}
